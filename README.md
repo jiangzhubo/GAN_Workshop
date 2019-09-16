@@ -1,5 +1,8 @@
 # GAN_Workshop
+关注公号：follow_bobo, 加入机器学习交流群
+
 This is ppt for GAN workshop
+
 深度学习领域的杰出代表Yann LeCun在Quora上写道：
 “生成式对抗网络（GAN）及其相关的变化，是我认为的机器学习领域近十年最有趣的想法。”
 当然他会有这样的观点。当我看到生成式对抗网络被最大程度执行时的惊人表现，我也同样印象深刻。
